@@ -1,0 +1,12 @@
+Student BT ID: 
+Student Name: SATYAM R
+Semester: 5
+Amount Paid: 100 INR
+Payment Date: 10111111
+---------------------------------------
+Student BT ID: 
+Student Name: A
+Semester: 4
+Amount Paid: 123850 INR
+Payment Date: A/5/11
+---------------------------------------

@@ -1,0 +1,4 @@
+uuas,89/36/25,bee
+workshop,25/08/25,about ai/ml
+esummit,25/01/25,for enteurpenurship
+Workshop,25/02/25,for the ai enthusiast

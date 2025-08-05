@@ -1,0 +1,283 @@
+Student BT ID: BT23CSE093
+Student Name: KSHITIZ
+
+Teacher: Dr. Milind Penurkar
+Knowledge: 4
+Communication Skills: 2
+Punctuality: 1
+---------------------------------------
+
+Teacher: Dr. Mayuri Digalwar
+Knowledge: 6
+Communication Skills: 2
+Punctuality: 1
+---------------------------------------
+
+Teacher: Dr. Richa Makhijani
+Knowledge: 2
+Communication Skills: 5
+Punctuality: 1
+---------------------------------------
+
+Teacher: Dr. Pradeep Shende
+Knowledge: 2
+Communication Skills: 6
+Punctuality: 8
+---------------------------------------
+
+Teacher: Dr. Devyani Gupta
+Knowledge: 6
+Communication Skills: 2
+Punctuality: 2
+---------------------------------------
+Student BT ID: bt23cse022
+Student Name: shivansh
+
+Teacher: Dr. Milind Penurkar
+Knowledge: 5
+Communication Skills: 4
+Punctuality: 2
+---------------------------------------
+
+Teacher: Dr. Mayuri Digalwar
+Knowledge: 3
+Communication Skills: 2
+Punctuality: 1
+---------------------------------------
+
+Teacher: Dr. Richa Makhijani
+Knowledge: 8
+Communication Skills: 5
+Punctuality: 6
+---------------------------------------
+
+Teacher: Dr. Pradeep Shende
+Knowledge: 2
+Communication Skills: 5
+Punctuality: 2
+---------------------------------------
+
+Teacher: Dr. Devyani Gupta
+Knowledge: 3
+Communication Skills: 3
+Punctuality: 2
+---------------------------------------
+Student BT ID: btta
+Student Name: asd
+
+Teacher: Dr. Milind Penurkar
+Knowledge: 2
+Communication Skills: 5
+Punctuality: 9
+---------------------------------------
+
+Teacher: Dr. Mayuri Digalwar
+Knowledge: 3
+Communication Skills: 2
+Punctuality: 3
+---------------------------------------
+
+Teacher: Dr. Richa Makhijani
+Knowledge: 5
+Communication Skills: 2
+Punctuality: 5
+---------------------------------------
+
+Teacher: Dr. Pradeep Shende
+Knowledge: 2
+Communication Skills: 3
+Punctuality: 4
+---------------------------------------
+
+Teacher: Dr. Devyani Gupta
+Knowledge: 5
+Communication Skills: 2
+Punctuality: 2
+---------------------------------------
+Student BT ID: bt12cse002
+Student Name: afk;a
+
+Teacher: Dr. Milind Penurkar
+Knowledge: 5
+Communication Skills: 6
+Punctuality: 8
+---------------------------------------
+
+Teacher: Dr. Mayuri Digalwar
+Knowledge: 7
+Communication Skills: 3
+Punctuality: 1
+---------------------------------------
+
+Teacher: Dr. Richa Makhijani
+Knowledge: 32
+Communication Skills: 2
+Punctuality: 1
+---------------------------------------
+
+Teacher: Dr. Pradeep Shende
+Knowledge: 5
+Communication Skills: 2
+Punctuality: 6
+---------------------------------------
+
+Teacher: Dr. Devyani Gupta
+Knowledge: 5
+Communication Skills: 2
+Punctuality: 2
+---------------------------------------
+Student BT ID: bt23cse0022
+Student Name: kkk
+
+Teacher: Dr. Milind Penurkar
+Knowledge: 4
+Communication Skills: 5
+Punctuality: 4
+---------------------------------------
+
+Teacher: Dr. Mayuri Digalwar
+Knowledge: 5
+Communication Skills: 4
+Punctuality: 5
+---------------------------------------
+
+Teacher: Dr. Richa Makhijani
+Knowledge: 4
+Communication Skills: 5
+Punctuality: 45
+---------------------------------------
+
+Teacher: Dr. Pradeep Shende
+Knowledge: 4
+Communication Skills: 5
+Punctuality: 45
+---------------------------------------
+
+Teacher: Dr. Devyani Gupta
+Knowledge: 4
+Communication Skills: 5
+Punctuality: 4
+---------------------------------------
+Student Name: kkk
+
+Teacher: Dr. Milind Penurkar
+Knowledge: 4
+Communication Skills: 1
+Punctuality: 4
+---------------------------------------
+
+Teacher: Dr. Mayuri Digalwar
+Knowledge: 7
+Communication Skills: 1
+Punctuality: 4
+---------------------------------------
+
+Teacher: Dr. Richa Makhijani
+Knowledge: 1
+Communication Skills: 4
+Punctuality: 1
+---------------------------------------
+
+Teacher: Dr. Pradeep Shende
+Knowledge: 4
+Communication Skills: 1
+Punctuality: 4
+---------------------------------------
+
+Teacher: Dr. Devyani Gupta
+Knowledge: 1
+Communication Skills: 4
+Punctuality: 1
+---------------------------------------
+Student Name: BT23cse002
+
+Teacher: Dr. Milind Penurkar
+Knowledge: 5
+Communication Skills: 4
+Punctuality: 2
+---------------------------------------
+
+Teacher: Dr. Mayuri Digalwar
+Knowledge: 1
+Communication Skills: 5
+Punctuality: 4
+---------------------------------------
+
+Teacher: Dr. Richa Makhijani
+Knowledge: 1
+Communication Skills: 2
+Punctuality: 1
+---------------------------------------
+
+Teacher: Dr. Pradeep Shende
+Knowledge: 2
+Communication Skills: 5
+Punctuality: 8
+---------------------------------------
+
+Teacher: Dr. Devyani Gupta
+Knowledge: 5
+Communication Skills: 2
+Punctuality: 5
+---------------------------------------
+Student Name: pranay
+
+Teacher: Dr. Milind Penurkar
+Knowledge: 0
+Communication Skills: 0
+Punctuality: 5
+---------------------------------------
+
+Teacher: Dr. Mayuri Digalwar
+Knowledge: -1
+Communication Skills: 0
+Punctuality: 4
+---------------------------------------
+
+Teacher: Dr. Richa Makhijani
+Knowledge: 4
+Communication Skills: 3
+Punctuality: 0
+---------------------------------------
+
+Teacher: Dr. Pradeep Shende
+Knowledge: 4
+Communication Skills: 4
+Punctuality: 5
+---------------------------------------
+
+Teacher: Dr. Devyani Gupta
+Knowledge: 0
+Communication Skills: 0
+Punctuality: 5
+---------------------------------------Student Name: KSTIZ
+
+Teacher: Dr. Milind Penurkar
+Knowledge: 4
+Communication Skills: 2
+Punctuality: 5
+---------------------------------------
+
+Teacher: Dr. Mayuri Digalwar
+Knowledge: 8
+Communication Skills: 53
+Punctuality: 31
+---------------------------------------
+
+Teacher: Dr. Richa Makhijani
+Knowledge: 15313
+Communication Skills: 22
+Punctuality: 2
+---------------------------------------
+
+Teacher: Dr. Pradeep Shende
+Knowledge: 5
+Communication Skills: 1
+Punctuality: 3
+---------------------------------------
+
+Teacher: Dr. Devyani Gupta
+Knowledge: 4
+Communication Skills: 2
+Punctuality: 1
+---------------------------------------

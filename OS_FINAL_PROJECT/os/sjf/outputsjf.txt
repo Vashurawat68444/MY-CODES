@@ -1,0 +1,6 @@
+
+Process	Arrival	Burst Completion TAT	Waiting	Response
+ P0	0	 24	  24 	 24 	0 	0
+P1	3	 17	  51 	 48 	31 	31
+P2	8	 50	  101 	 93 	43 	43
+P3	15	 10	  34 	 19 	9 	9
